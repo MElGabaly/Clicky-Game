@@ -1,0 +1,12 @@
+.wrapper {
+  background: rgb(175, 175, 175);
+  background-image: url("https://wallpapercave.com/wp/wp3533030.jpg");
+  background-size: 1920px 1080px;
+  height: 50%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+  padding-bottom: 50px;
+}

@@ -1,0 +1,10 @@
+.title {
+  width: 100%;
+  text-align: right;
+  font-size: 2rem;
+  color: rgb(122, 75, 122);
+  margin-bottom: 0px;
+  padding-left: 3%;
+  padding-right: 3%;
+  font-family: "Bungee", cursive;
+}

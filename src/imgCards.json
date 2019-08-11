@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "https://comicvine1.cbsistatic.com/uploads/scale_small/3/31666/3778239-rocketraccoon001-9084a.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://comicvine1.cbsistatic.com/uploads/scale_small/8/80103/6197311-c6d76a022f2dcf57c29e2ef87a3c7d47.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://comicvine1.cbsistatic.com/uploads/scale_small/10/100647/6436253-thor2.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://comicvine1.cbsistatic.com/uploads/scale_small/3/31666/4956367-invim2015001-maleevvar-d8a38.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://comicvine1.cbsistatic.com/uploads/scale_small/14/140903/4127149-11.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://comicvine1.cbsistatic.com/uploads/scale_small/13/132327/6421118-captain_america_2_by_leinilyu-d4jupy4.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://comicvine1.cbsistatic.com/uploads/scale_small/3/31666/4943681-dpool2015007-cov-bec9c.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://comicvine1.cbsistatic.com/uploads/scale_small/3/31666/4924093-drs2015002rossvariant-d0946.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://comicvine1.cbsistatic.com/uploads/scale_small/3/31666/5011137-blap2016001-cov-d6d2a.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://comicvine1.cbsistatic.com/uploads/scale_small/3/31666/4479803-vision.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://comicvine1.cbsistatic.com/uploads/scale_small/3/31666/5606768-bwidow2016012cov.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://comicvine1.cbsistatic.com/uploads/scale_small/11/113509/5939223-falcon%20cap.jpg",
+    "clicked": false
+  }
+]
